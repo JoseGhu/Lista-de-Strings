@@ -1,0 +1,14 @@
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\bin\Debug\net8.0\ListaDeStrings.exe
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\bin\Debug\net8.0\ListaDeStrings.deps.json
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\bin\Debug\net8.0\ListaDeStrings.runtimeconfig.json
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\bin\Debug\net8.0\ListaDeStrings.dll
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\bin\Debug\net8.0\ListaDeStrings.pdb
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\obj\Debug\net8.0\ListaDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\obj\Debug\net8.0\ListaDeStrings.AssemblyInfoInputs.cache
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\obj\Debug\net8.0\ListaDeStrings.AssemblyInfo.cs
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\obj\Debug\net8.0\ListaDeStrings.csproj.CoreCompileInputs.cache
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\obj\Debug\net8.0\ListaDeStrings.dll
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\obj\Debug\net8.0\refint\ListaDeStrings.dll
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\obj\Debug\net8.0\ListaDeStrings.pdb
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\obj\Debug\net8.0\ListaDeStrings.genruntimeconfig.cache
+C:\Users\Felipe WebNets\source\repos\ListaStrings\ListaDeStrings\ListaDeStrings\obj\Debug\net8.0\ref\ListaDeStrings.dll
